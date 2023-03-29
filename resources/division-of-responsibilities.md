@@ -1,4 +1,4 @@
-# Division Of Responsibilities
+# DEPRECIATED - Division Of Responsibilities
 
 ![division-1][division-1]
 ![division-2][division-2]
